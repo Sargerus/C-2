@@ -1,0 +1,6 @@
+E:\4 семестр\c#\2\2\bin\Debug\2.exe.config
+E:\4 семестр\c#\2\2\bin\Debug\2.exe
+E:\4 семестр\c#\2\2\bin\Debug\2.pdb
+E:\4 семестр\c#\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+E:\4 семестр\c#\2\2\obj\Debug\2.exe
+E:\4 семестр\c#\2\2\obj\Debug\2.pdb
